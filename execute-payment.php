@@ -1,7 +1,7 @@
 <?php
 //Check PayPal mode, and change PayPal url according for Sandbox or Live.
-define('PAYPAL_CLIENT_ID', 'ASyCFYb2d35Bs8OkoMrMjGKTWXSic7Y-xEOFoZ5S7WSkmuIyiGO6hc6UKKEhsiX_Njc308xHRJWPWJmf');
-define('PAYPAL_SECRET', 'EHuzSULe1AfNq_gzTkzxg0kn2sMshTN1IMLRmkieCPRsPG6qdmQVntNHh4hSe2gOzQems99pRc_1Od4U');
+define('PAYPAL_CLIENT_ID', '');
+define('PAYPAL_SECRET', '');
 
 //Check PayPal mode, and change PayPal url according for Sandbox or Live.
 $PayPal_BASE_URL = 'https://api.sandbox.paypal.com/v1/';
